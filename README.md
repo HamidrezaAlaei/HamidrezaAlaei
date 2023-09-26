@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏻‍♂️ Pronouns: He/Him<br>👨🏻‍💻 I love building mobile and web applications that help clients with their daily jobs<br>👥 I enjoy being in a team and solving real-world problems<br>👷🏻‍♂️ I’m currently working on exciting projects at Bizkey Tech Inc.<br>📚 I am passionate about keeping my knowledge up to date and learning new technologies<br>🌱 I’m currently learning Node.js and TypeScript<br>❔ Ask me about React and Flutter<br>👫 When I'm not coding, I am spending my time with my family and friends<br>📮 You can reach me via the provided social links
+🙋🏻‍♂️ Pronouns: He/Him<br>👨🏻‍💻 I love building mobile and web applications that help clients with their daily jobs<br>👥 I enjoy being in a team and solving real-world problems<br>👷🏻‍♂️ I’m currently working on exciting projects at Cocoflo<br>📚 I am passionate about keeping my knowledge up to date and learning new technologies<br>🌱 I’m currently learning Node.js and TypeScript<br>❔ Ask me about React and Flutter<br>👫 When I'm not coding, I am spending my time with my family and friends<br>📮 You can reach me via the provided social links
 
 
 ## 🌐 Socials:
